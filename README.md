@@ -80,5 +80,3 @@ Tools & Technologies
   - Scikit-learn  
 - Environment: Jupyter Notebook  
 
-
-├── README.md
